@@ -1,0 +1,22 @@
+body {
+    background-color:lightslategray;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.preview {
+    background-color:mintcream;
+}
+
+.preview img {
+    max-width: 100px;
+}
+
+textarea, .preview {
+    min-height: 400px;
+}
+
+.header {
+    background-color: mediumaquamarine;
+    padding: 20px;
+}
