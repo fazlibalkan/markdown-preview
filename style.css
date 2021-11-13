@@ -1,11 +1,11 @@
 body {
-    background-color:lightslategray;
+    background-color:ghostwhite;
     padding-left: 50px;
     padding-right: 50px;
 }
 
 .preview {
-    background-color:mintcream;
+    background-color:lightblue;
 }
 
 .preview img {
@@ -17,6 +17,6 @@ textarea, .preview {
 }
 
 .header {
-    background-color: mediumaquamarine;
+    background-color:lightblue;
     padding: 20px;
 }
